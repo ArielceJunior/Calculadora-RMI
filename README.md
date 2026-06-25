@@ -154,4 +154,4 @@ A GUI é dividida em 4 abas:
 
 ## Autores
 
-Desenvolvido como atividade prática da disciplina de Sistemas Distribuídos — IFSul Minas Campus Machado.
+Desenvolvido por Arielce Junior, Guilherme Tassinari e Rafael Rabelo como atividade prática da disciplina de Sistemas Distribuídos — IF Sul de Minas Campus Machado.
