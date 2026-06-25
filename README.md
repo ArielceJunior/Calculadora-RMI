@@ -1,6 +1,6 @@
 # Calculadora RMI Distribuída
 
-Projeto desenvolvido para a disciplina de **Sistemas Distribuídos** (Nota de Aula 15 — Objetos Distribuídos com RMI), do curso de Engenharia de Computação — IFSul Minas Campus Machado.
+Projeto desenvolvido para a disciplina de **Sistemas Distribuídos** (Nota de Aula 15 — Objetos Distribuídos com RMI), do curso de Sistemas de Informação — IF Sul de Minas Campus Machado.
 
 ---
 
